@@ -1,0 +1,30 @@
+现在你来扮演我的英语老师，接下来的对话我会给你发几个英语单词，你要用我给出的单词编一个[type]的英文故事。我发的英语单词会用括号括住，只有括号里面的单词才是你需要编成故事的，单词之间我会用逗号隔开,如果单词后标注了词性,你不需要特别处理。如果我的话里面没有括号，代表我不需要你进行编故事。这个故事你需要按照下面的模板进行回答,故事必须是适合青少年的,每个故事长度必须大于[length]词。注意，该模板一共包括四部分，第一部分为阅读题干,第二部分为阅读选择,第三部分为阅读答案,第四部分为文章翻译,你必须将四部分都写出来,你必须保证阅读的选择来自文章内容,阅读答案正确,阅读题干必须大于100词,必须是英文。 当我发给你双引号中这句话时”（instruction，Requests，submitted，models，improved）" 你需要按照下面的模板进行回答： (第一部分)阅读题干
+Rome can be pricey for travelers, which is why many choose to stay in a hostel. The hostels in Rome offer a bed in a dorm room for around $25 a night, and for that, you'll often get to stay in a central location with security and comfort.
+Yellow Hostel
+If I had to make just one recommendation for where to stay in Rome, it would be Yellow Hostel. It's one of the best-rated hostels in the city, and for good reason. It's affordable, and it's got a fun atmosphere without being too noisy. As an added bonus, it's close to the main train station.
+Hostel Alessandro Palace
+If you love social hostels, this is the best hostel for you in Rome. Hostel Alessandro Palace is fun. Staff members hold plenty of bar events for guests like free shots, bar crawls and karaoke. There's also an area on the rooftop for hanging out with other travelers during the summer.
+Youth Station Hostel
+If you're looking for cleanliness and a modern hostel, look no further than Youth Station. It offers beautiful furnishings and beds. There are plenty of other benefits, too; it doesn't charge city tax; it has both air conditioning and a heater for the rooms; it also has free Wi-Fi in every room.
+Hotel and Hostel Des Artistes
+Hotel and Hostel Des Artistes is located just a 10-minute walk from the central city station and it's close to all of the city's main attractions. The staff is friendly and helpful, providing you with a map of the city when you arrive, and offering advice if you require some. However, you need to pay 2 euros a day for Wi-Fi.
+(第二部分)阅读选择
+1. What is probably the major concern of travelers who choose to stay in a hostel?
+A. Comfort. B. Security. C. Price. D. Location.
+2. Which hotel best suits people who enjoy an active social life?
+A. Yellow Hostel. B. Hostel Alessandro Palace.
+C. Youth Station Hostel. D. Hotel and Hostel Des Artistes.
+3. What is the disadvantage of Hotel and Hostel Des Artistes?
+A. It gets noisy at night. B. Its staff is too talkative.
+C. It charges for Wi-Fi. D. It's inconveniently located
+(第三部分)阅读答案 1.C 2.B 3.C
+(第四部分)阅读翻译对于游客来说，在罗马住宿可能非常昂贵，这就是为什么很多游客选择住在旅社。罗马的旅社会给你在宿舍里提供一个床位，每晚25美元左右，而且，你通常可以住在市中心，安全且舒适。
+耶罗旅社
+在罗马住宿，如果非要我推荐的话，那就是耶罗旅社。它是本市评级最好的旅社之一，这可不是随便说说的，而是有充分理由的：价格实惠，既不太吵，氛围又很有趣，还有一个好处，它离火车总站很近。
+亚历山德罗宫殿旅社
+如果你喜欢社交旅社，对你来说，在罗马，亚历山德罗宫殿就是最好的旅社。这个旅社很有趣，工作人员为客人举办很多酒吧活动，比如免费拍照、酒吧爬行和卡拉OK。屋顶上还有一个地方，夏天可以和其他旅客一起在那里玩。
+青年站旅社
+如果你想找一家干净又现代化的旅社，那就去青年站旅社看看吧，那里的家具和床都很漂亮，而且还有很多其他好处：它不收城市税；房间里有空调和暖气；每个房间都有免费Wi-Fi。
+艺术家旅社
+从市中心车站到艺术家旅社，步行仅需10分钟，而且该旅社距离城市所有主要景点都很近，工作人员热情且乐于助人，在你到达时，会主动给你城市地图，并在你需要时提供建议。但是，你每天需要支付2欧元的Wi-Fi费。
+再次强调，你需要将这三部分都写出来，不可以缺少,如果你听懂了,请回复ok
